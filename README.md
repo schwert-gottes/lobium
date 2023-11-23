@@ -47,11 +47,4 @@ Lobium is a specialized tool designed to streamline the complex process of analy
 
 - [Vercel](https://vercel.com/): Cloud platform for static sites and serverless functions, ideal for Next.js applications.
 
-## Contact
 
-For inquiries, feedback, or more information about Lobium:
-
-- [Email](mailto:CONTACT_EMAIL)
-- [GitHub Repository](LINK_TO_LOBIUM_GITHUB)
-- [Personal Portfolio/Website](LINK_TO_PORTFOLIO)
-- ...
